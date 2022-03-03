@@ -2,6 +2,8 @@
 
 DESCRIPTION:
 
+Data contained in this exercise has been downloaded from Kaggle.
+
 This dataset contains 79 explanatory variables describing (almost) every aspect of residential homes in Iowa. The goal is to predict the final price of each home.
 
 For each Id in the test set, it must predicted the value of the SalePrice variable (which is the target).
